@@ -13,4 +13,4 @@ Kwaliteit:  checken of de code werkt en alles gewoon goed gaat. Dus  Links,Knopp
 
 Overleg:  bij  korte stand up overleggen waar iedereen nu bij is of welke stap die nu doet. En wat die geeft gedaan vorige les. 
 
-Als het niet goed gaat:  
+Als het niet goed gaat:  Met docent bespreken of zelf oplossen
