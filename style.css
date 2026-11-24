@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    background-color: #f4f6e9;
+    font-family: Arial, sans-serif;
+}
+
+.header-logo {
+    background-color: #405c40;
+    text-align: center;
+    padding: 15px;
+}
+
+.header-logo img {
+    width: 140px;
+    height: 100px;
+}
+
+.navbar {
+    background-color: #263d29;
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+}
+
+.hero {
+    background-image: url('assets/media/tulpen.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 70px;
+    color: white;
+}
+
+.section-banner {
+    background-color: #405c40;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+
+.products-wrapper {
+    text-align: center;
+}
+
+.product-table {
+    margin: 0 auto;
+    border-spacing: 10px;
+}
+
+.product-table td {
+    background-color: #d9e9b5;
+    text-align: center;
+    padding: 10px;
+}
+
+.product-table img {
+    width: 140px;
+    height: 100px;
+}
+
+.about-section {
+    background-color: #405c40;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.about-section img {
+    width: 150px;
+}
+
+.footer {
+    background-color: #203b25;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
