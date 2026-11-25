@@ -1,0 +1,28 @@
+.header-logo {
+    background-color: #405c40;
+    text-align: center;
+    padding: 15px;
+}
+
+.header-logo img {
+    width: 140px;
+    height: 100px;
+}
+
+.navbar {
+    background-color: #263d29;
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+}
+
+
+.footer {
+    background-color: #203b25;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
