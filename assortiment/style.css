@@ -26,3 +26,43 @@
     padding: 25px;
     text-align: center;
 }
+
+.midden{
+    padding: 500px;
+}
+
+div img {
+    width: 250px;
+    height: 250px;
+ 
+}
+
+div p{
+    background-color: #d9e9b5;
+    padding: 10px;
+    width: 250px;  
+    height: 25px; 
+    text-align: center;
+}
+
+.special p{
+    width: 500px;
+    height: 75px;
+    text-align: center;
+}
+.special img{
+    width: 500px;
+    height: 500px;
+}
+
+.product{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.product img{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
